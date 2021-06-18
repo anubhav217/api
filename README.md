@@ -4,12 +4,12 @@
 We have stopped capturing testing data at a district level. Please check the status of the API endpoints below.
 ## CSV
 
-Sometimes, having files in a spreadsheet format is more useful for analysts and scientists. We have provided the files as downloadable csv files as below.
+Sometimes, having files in a spreadsheet format is actually more useful for analysts and scientists. We have provided the files as downloadable csv files as below.
 
 ### Files available
 
 Latest data from the google sheet (10-20 minutes delayed) is available through the `latest` end-point.
-These are the files available
+These are the files that are available
 
 #### Raw Data
 
